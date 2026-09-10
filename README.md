@@ -332,4 +332,4 @@ turma-visualizacao-dados-t2-modulo02-Andre-Abranjo-Ramos/
 ## Links do Projeto
 
 - 🔗 **Repositório GitHub:** https://github.com/Andre-Abranjo-Ramos/turma-visualizacao-dados-t2-modulo02-Andre-Abranjo-Ramos
-- 🎥 **Vídeo de apresentação:** *(depois vou disponibilizar o link)*
+- 🎥 **Vídeo de apresentação:** *(https://github.com/Andre-Abranjo-Ramos/turma-visualizacao-dados-t2-modulo02-Andre-Abranjo-Ramos/blob/Andre-Abranjo-Ramos-Video/video/Mini_projeto_Andre_Abranjo_Ramos_Final.mp4)
